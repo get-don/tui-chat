@@ -1,4 +1,4 @@
-module cli-based-chat
+module github.com/get-don/tui-chat
 
 go 1.24
 

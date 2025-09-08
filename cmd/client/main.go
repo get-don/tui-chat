@@ -1,7 +1,7 @@
 package main
 
 import (
-	"cli-based-chat/internal/view"
+	"github.com/get-don/tui-chat/internal/view"
 )
 
 func main() {
